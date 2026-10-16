@@ -1,0 +1,351 @@
+{
+  "$comment": "Static asset manifest for the EWEM Portfolio dashboard. GitHub Pages serves files statically, so file paths are listed here explicitly. 'path' is relative to 'assignmentsBase'. 'sizeBytes' was read from the local filesystem. 'verified: true' means a matching submission file was located and linked; absence of files means the activity is listed but not yet linked.",
+  "schemaVersion": 1,
+  "generated": "2026-10-16",
+  "assignmentsBase": "../Assignments/",
+  "fileTypes": {
+    "pdf": { "label": "PDF document", "group": "document", "viewable": true, "icon": "file-text" },
+    "docx": { "label": "Word document", "group": "office", "viewable": false, "icon": "file-text" },
+    "xlsx": { "label": "Excel workbook", "group": "office", "viewable": false, "icon": "file-spreadsheet" },
+    "pptx": { "label": "PowerPoint presentation", "group": "office", "viewable": false, "icon": "presentation" },
+    "png": { "label": "PNG image", "group": "image", "viewable": true, "icon": "image" }
+  },
+  "categories": {
+    "isa": "ISA",
+    "ese": "ESE",
+    "project": "Project",
+    "research": "Research"
+  },
+  "files": [
+    {
+      "id": "file-toxic-chemicals",
+      "title": "Toxic Chemicals — Any 5",
+      "filename": "EWEM ASSIGNMENT 1.pdf",
+      "path": "Toxic Chemicals_ Any5/EWEM ASSIGNMENT 1.pdf",
+      "ext": "pdf",
+      "sizeBytes": 1173684,
+      "category": "isa",
+      "activity": "isa-toxic-chemicals"
+    },
+    {
+      "id": "file-assignment-3",
+      "title": "Assignment 3 — Elemental Recovery Process Update",
+      "filename": "Soumitra Rajguru TE CMPN C 24102C0033_20260728_095026_0000.png",
+      "path": "Assignment 3/Soumitra Rajguru TE CMPN C 24102C0033_20260728_095026_0000.png",
+      "ext": "png",
+      "sizeBytes": 3249660,
+      "category": "isa",
+      "activity": "isa-assignment-3"
+    },
+    {
+      "id": "file-assignment-2",
+      "title": "Assignment 2 — Map of E-waste (Class Activity)",
+      "filename": "HP_mp.png",
+      "path": "Assignment 2/HP_mp.png",
+      "ext": "png",
+      "sizeBytes": 1099541,
+      "category": "isa",
+      "activity": "isa-assignment-2"
+    },
+    {
+      "id": "file-assignment-1-tracker",
+      "title": "Assignment 1 — E-waste Tracker (workbook)",
+      "filename": "Himachal_Pradesh_EWaste_Tracker_v2.xlsx",
+      "path": "Assignment 1_ E waste Tracker/Himachal_Pradesh_EWaste_Tracker_v2.xlsx",
+      "ext": "xlsx",
+      "sizeBytes": 18122,
+      "category": "isa",
+      "activity": "isa-assignment-1"
+    },
+    {
+      "id": "file-assignment-1-excel",
+      "title": "Assignment 1 — E-waste data workbook",
+      "filename": "excel _ 24102C0033.xlsx",
+      "path": "Assignment 1_ E waste Tracker/excel _ 24102C0033.xlsx",
+      "ext": "xlsx",
+      "sizeBytes": 30604,
+      "category": "isa",
+      "activity": "isa-assignment-1"
+    },
+    {
+      "id": "file-assignment-1-report",
+      "title": "Assignment 1 — Comprehensive E-waste Report",
+      "filename": "Comprehensive_EWaste_Report.pdf",
+      "path": "Assignment 1_ E waste Tracker/Comprehensive_EWaste_Report.pdf",
+      "ext": "pdf",
+      "sizeBytes": 162418,
+      "category": "isa",
+      "activity": "isa-assignment-1"
+    },
+    {
+      "id": "file-india-world",
+      "title": "E-waste India vs World — Data Task",
+      "filename": "EWEM Activity.pdf",
+      "path": "E waste India Vs World Data/EWEM Activity.pdf",
+      "ext": "pdf",
+      "sizeBytes": 551725,
+      "category": "ese",
+      "activity": "ese-india-world"
+    },
+    {
+      "id": "file-state-ppt",
+      "title": "State Tracker Submission — Presentation",
+      "filename": "e_waste_hp_presentation (1).pptx",
+      "path": "State tracker submission/e_waste_hp_presentation (1).pptx",
+      "ext": "pptx",
+      "sizeBytes": 166855,
+      "category": "ese",
+      "activity": "ese-state-tracker"
+    },
+    {
+      "id": "file-state-doc",
+      "title": "State Tracker — List of Companies (HP)",
+      "filename": "List of Companies_HP.docx",
+      "path": "State tracker submission/List of Companies_HP.docx",
+      "ext": "docx",
+      "sizeBytes": 28843,
+      "category": "ese",
+      "activity": "ese-state-tracker"
+    },
+    {
+      "id": "file-indian-companies",
+      "title": "Indian Companies Following E-waste Rules — Comparative Study",
+      "filename": "E_Waste_Comparison_Two_Column_Journal_Format.docx",
+      "path": "Indian Companies Following E waste Rules_Comparative Study/E_Waste_Comparison_Two_Column_Journal_Format.docx",
+      "ext": "docx",
+      "sizeBytes": 54011,
+      "category": "ese",
+      "activity": "ese-indian-companies"
+    },
+    {
+      "id": "file-novel-idea",
+      "title": "Novel Idea — Smart Campus E-waste Recovery (Pitch Deck)",
+      "filename": "Smart_Campus_E-Waste_Recovery.pptx",
+      "path": "Novel Idea_E waste_Pitch Deck/Smart_Campus_E-Waste_Recovery.pptx",
+      "ext": "pptx",
+      "sizeBytes": 5353615,
+      "category": "ese",
+      "activity": "ese-novel-idea"
+    },
+    {
+      "id": "file-leed",
+      "title": "LEED Certification of Green Buildings in India — Scorecards",
+      "filename": "LEED_Green_Buildings_India_Scorecards.xlsx",
+      "path": "LEED Certification of Green Buildings in India/LEED_Green_Buildings_India_Scorecards.xlsx",
+      "ext": "xlsx",
+      "sizeBytes": 11978,
+      "category": "ese",
+      "activity": "ese-leed"
+    },
+    {
+      "id": "file-case-studies",
+      "title": "Case Studies — E-waste Report",
+      "filename": "24102C0033_REPORT.docx",
+      "path": "Case Studies E waste/24102C0033_REPORT.docx",
+      "ext": "docx",
+      "sizeBytes": 60149,
+      "category": "project",
+      "activity": "project-case-studies"
+    },
+    {
+      "id": "file-ieee",
+      "title": "IEEE Paper Submission",
+      "filename": "IEEE_Paper_Soumitra.docx",
+      "path": "IEEE Paper Submission/IEEE_Paper_Soumitra.docx",
+      "ext": "docx",
+      "sizeBytes": 35690,
+      "category": "research",
+      "activity": "project-ieee"
+    }
+  ],
+  "isaActivities": [
+    {
+      "id": "isa-toxic-chemicals",
+      "title": "Toxic Chemicals — Any 5",
+      "badge": "ISA",
+      "icon": "flask",
+      "description": "A study of five toxic chemicals associated with e-waste, covering where they appear, their health and environmental hazards, and safe-handling considerations.",
+      "files": ["file-toxic-chemicals"]
+    },
+    {
+      "id": "isa-assignment-3",
+      "title": "Assignment 3 — Elemental Recovery Process Update",
+      "badge": "ISA",
+      "icon": "recycle",
+      "description": "An update on the elemental recovery process used when processing e-waste, documented as a visual submission.",
+      "files": ["file-assignment-3"]
+    },
+    {
+      "id": "isa-assignment-2",
+      "title": "Assignment 2 — Map of E-waste (Class Activity)",
+      "badge": "ISA",
+      "icon": "map",
+      "description": "A class activity mapping e-waste handling across a region (Himachal Pradesh), presented as a map graphic.",
+      "files": ["file-assignment-2"]
+    },
+    {
+      "id": "isa-assignment-zero",
+      "title": "Assignment Zero — Check AAP",
+      "badge": "ISA",
+      "icon": "clipboard",
+      "description": "An introductory activity to review and confirm the AAP (Academic Activity Plan) for the course.",
+      "files": []
+    },
+    {
+      "id": "isa-assignment-1",
+      "title": "Assignment 1 — E-waste Tracker",
+      "badge": "ISA",
+      "icon": "tracker",
+      "description": "An e-waste tracking workbook for Himachal Pradesh with supporting data sheets and a written report.",
+      "files": ["file-assignment-1-tracker", "file-assignment-1-excel", "file-assignment-1-report"]
+    }
+  ],
+  "eseActivities": [
+    {
+      "id": "ese-india-world",
+      "title": "E-waste India vs World — Data Task",
+      "badge": "ESE · Class Activity",
+      "icon": "chart",
+      "description": "A comparative data task examining e-waste generation and management in India alongside global figures.",
+      "files": ["file-india-world"]
+    },
+    {
+      "id": "ese-carbon-footprint",
+      "title": "Carbon Footprint Task — Excel Activity",
+      "badge": "ESE · Excel Activity",
+      "icon": "leaf",
+      "description": "An Excel-based activity estimating carbon footprint associated with e-waste related activities.",
+      "files": []
+    },
+    {
+      "id": "ese-state-tracker",
+      "title": "TE CMPN C PPT — State Tracker Submission",
+      "badge": "ESE",
+      "icon": "presentation",
+      "description": "A state-level tracking submission delivered as a presentation, with a supporting list of companies for Himachal Pradesh.",
+      "files": ["file-state-ppt", "file-state-doc"]
+    },
+    {
+      "id": "ese-design-patent",
+      "title": "E-waste Recovery Process — Modification for Design Patent",
+      "badge": "ESE",
+      "icon": "scroll",
+      "description": "A proposed modification to an e-waste recovery process, developed for design-patent consideration.",
+      "files": []
+    },
+    {
+      "id": "ese-indian-companies",
+      "title": "Indian Companies Following E-waste Rules — Comparative Study",
+      "badge": "ESE",
+      "icon": "building",
+      "description": "A comparative study, in two-column journal format, of Indian companies and their adherence to e-waste rules.",
+      "files": ["file-indian-companies"]
+    },
+    {
+      "id": "ese-novel-idea",
+      "title": "Novel Idea — E-waste Pitch Deck",
+      "badge": "ESE",
+      "icon": "bulb",
+      "description": "A pitch deck presenting a smart-campus e-waste recovery concept.",
+      "files": ["file-novel-idea"]
+    },
+    {
+      "id": "ese-campus-campaign",
+      "title": "Campaign for E-waste in Campus — Class Activity",
+      "badge": "ESE · Class Activity",
+      "icon": "megaphone",
+      "description": "A campus awareness campaign activity focused on e-waste management and responsible disposal.",
+      "files": []
+    },
+    {
+      "id": "ese-leed",
+      "title": "LEED Certification of Green Buildings in India",
+      "badge": "ESE",
+      "icon": "building",
+      "description": "A scorecard-based review of LEED certification for green buildings in India, including assessment criteria and results.",
+      "files": ["file-leed"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-ewaste-tracker",
+      "title": "E-waste Tracker",
+      "summary": "A tracking workbook and report capturing e-waste data for Himachal Pradesh.",
+      "categories": ["isa", "project"],
+      "icon": "tracker",
+      "files": ["file-assignment-1-tracker", "file-assignment-1-excel", "file-assignment-1-report"]
+    },
+    {
+      "id": "project-state-tracker",
+      "title": "State Tracker",
+      "summary": "A state-level tracking submission with a presentation and a company list.",
+      "categories": ["ese", "project"],
+      "icon": "presentation",
+      "files": ["file-state-ppt", "file-state-doc"]
+    },
+    {
+      "id": "project-indian-companies",
+      "title": "Comparative Study — Indian Companies & E-waste Rules",
+      "summary": "A two-column comparative study of Indian companies and their e-waste rule compliance.",
+      "categories": ["ese", "research"],
+      "icon": "building",
+      "files": ["file-indian-companies"]
+    },
+    {
+      "id": "project-novel-idea",
+      "title": "Novel E-waste Idea & Pitch Deck",
+      "summary": "A smart-campus e-waste recovery concept presented as a pitch deck.",
+      "categories": ["ese", "project"],
+      "icon": "bulb",
+      "files": ["file-novel-idea"]
+    },
+    {
+      "id": "project-case-studies",
+      "title": "Case Studies — E-waste",
+      "summary": "Case-study coursework on e-waste management, compiled as a written report.",
+      "categories": ["research", "project"],
+      "icon": "book",
+      "files": ["file-case-studies"]
+    },
+    {
+      "id": "project-ieee",
+      "title": "IEEE Paper Submission",
+      "summary": "A research manuscript prepared in IEEE format for submission.",
+      "categories": ["research"],
+      "icon": "scroll",
+      "files": ["file-ieee"]
+    },
+    {
+      "id": "project-leed",
+      "title": "LEED Green Building Certification Scorecard",
+      "summary": "Scorecards reviewing LEED certification for green buildings in India.",
+      "categories": ["ese", "project"],
+      "icon": "building",
+      "files": ["file-leed"]
+    },
+    {
+      "id": "project-toxic-chemicals",
+      "title": "Toxic Chemicals in E-waste",
+      "summary": "A reference study of five toxic chemicals found in e-waste.",
+      "categories": ["isa", "research"],
+      "icon": "flask",
+      "files": ["file-toxic-chemicals"]
+    },
+    {
+      "id": "project-recovery-process",
+      "title": "Elemental Recovery Process — Update",
+      "summary": "A visual update on the elemental recovery process for e-waste.",
+      "categories": ["isa", "research"],
+      "icon": "recycle",
+      "files": ["file-assignment-3"]
+    },
+    {
+      "id": "project-ewaste-map",
+      "title": "E-waste Map (Himachal Pradesh)",
+      "summary": "A regional map produced for the e-waste mapping class activity.",
+      "categories": ["isa", "project"],
+      "icon": "map",
+      "files": ["file-assignment-2"]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Abstract topographic map with a leaf and connected data nodes">
+  <defs>
+    <linearGradient id="ewemGreen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f7d5b"/>
+      <stop offset="1" stop-color="#12a06f"/>
+    </linearGradient>
+    <radialGradient id="ewemGlow" cx="50%" cy="45%" r="58%">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="300" cy="300" r="286" fill="url(#ewemGlow)"/>
+
+  <g fill="none" stroke="url(#ewemGreen)" stroke-linecap="round">
+    <ellipse cx="300" cy="300" rx="64" ry="50"  transform="rotate(-20 300 300)" stroke-opacity="0.55"/>
+    <ellipse cx="300" cy="300" rx="108" ry="84" transform="rotate(-14 300 300)" stroke-opacity="0.48"/>
+    <ellipse cx="300" cy="300" rx="152" ry="118" transform="rotate(-8 300 300)" stroke-opacity="0.40"/>
+    <ellipse cx="300" cy="300" rx="196" ry="152" transform="rotate(-2 300 300)" stroke-opacity="0.32"/>
+    <ellipse cx="300" cy="300" rx="240" ry="186" transform="rotate(6 300 300)" stroke-opacity="0.24"/>
+  </g>
+
+  <g fill="none" stroke="url(#ewemGreen)" stroke-opacity="0.6" stroke-dasharray="5 9">
+    <path d="M110 372 C 170 300, 210 340, 262 268 S 360 180, 470 226" stroke-width="1.6"/>
+    <path d="M140 250 C 210 300, 250 240, 320 300 S 420 372, 486 320" stroke-width="1.4"/>
+  </g>
+
+  <g fill="url(#ewemGreen)">
+    <circle cx="110" cy="372" r="5"/>
+    <circle cx="262" cy="268" r="5"/>
+    <circle cx="470" cy="226" r="5"/>
+    <circle cx="320" cy="300" r="5"/>
+    <circle cx="486" cy="320" r="5"/>
+  </g>
+
+  <g transform="translate(300 300)">
+    <path d="M-2 74 C -74 44, -82 -34, -4 -78 C 74 -34, 70 46, -2 74 Z"
+          fill="url(#ewemGreen)" fill-opacity="0.16"
+          stroke="url(#ewemGreen)" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M-2 74 C -18 20, -12 -24, -4 -78"
+          fill="none" stroke="url(#ewemGreen)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-8 20 C 6 14, 18 6, 28 -6 M-12 -14 C 0 -22, 10 -30, 16 -42"
+          fill="none" stroke="url(#ewemGreen)" stroke-width="2.4" stroke-linecap="round" stroke-opacity="0.8"/>
+  </g>
+</svg>
